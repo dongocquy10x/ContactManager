@@ -1,0 +1,12 @@
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\App.exe.config
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\App.exe
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\App.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.exe
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Models.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Models.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.Contacts.resources
