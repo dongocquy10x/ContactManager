@@ -10,3 +10,13 @@ C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Mod
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Models.pdb
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.csproj.CopyComplete
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\obj\Debug\App.Contacts.resources
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Interfaces.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Unity.Abstractions.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Unity.Container.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\ViewModels.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Interfaces.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Models.dll.config
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\ViewModels.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Unity.Abstractions.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\App\bin\Debug\Unity.Container.pdb

@@ -1,0 +1,17 @@
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Interfaces.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Models.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Unity.Abstractions.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Unity.Container.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Interfaces.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Models.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Models.dll.config
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Unity.Abstractions.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\bin\Debug\Unity.Container.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\ViewModels\obj\Debug\ViewModels.pdb

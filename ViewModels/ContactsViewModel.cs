@@ -10,9 +10,9 @@ using System.Windows.Forms;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace App.ContactsViewModel
+namespace ViewModels
 {
-    public class ContactsViewModel : INotifyPropertyChanged
+    public class ContactsViewModel : INotifyPropertyChanged, IContactsViewModel
     {
         public BindingSource ContactBindingSource { get; set; }
 

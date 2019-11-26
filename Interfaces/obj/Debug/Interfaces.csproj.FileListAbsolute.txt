@@ -1,0 +1,5 @@
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Interfaces\obj\Debug\Interfaces.pdb

@@ -2,3 +2,4 @@ C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Models\bin\Debug\
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Models\bin\Debug\Models.pdb
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Models\obj\Debug\Models.dll
 C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Models\obj\Debug\Models.pdb
+C:\Users\dnq\source\repos\ContactManager_hoctap\ContactManager\Models\obj\Debug\Models.csprojAssemblyReference.cache

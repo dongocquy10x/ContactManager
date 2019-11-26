@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
+using Unity;
+using ViewModels;
+using Interfaces;
 /*=========================================================
  * Phần code behind của form chỉ còn thực hiện:
  * Binding (dữ liệu)
@@ -26,8 +21,8 @@ namespace App
 {
     public partial class Contacts : Form
     {
+        private IContactsViewModel _vm = Config.Container.Resolve<IContactsViewModel>();
 
-        private ContactsViewModel.ContactsViewModel _vm = new ContactsViewModel.ContactsViewModel();
         public Contacts()
         {
             InitializeComponent();
